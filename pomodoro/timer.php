@@ -1,4 +1,4 @@
-<!-- the main page -->
+<!-- the main page, can severely be improved since the timer is based on real times, when it can be just a simple timer -->
 <!DOCTYPE html>
 <?php 
     include 'connect.php';
