@@ -1,9 +1,11 @@
 # Personal-Pomodoro
 
+Pomodoro Project - Web application that uses PHP and MySQL. It is a tool that boosts and helps control one's productivity. What makes it unique is that the records are saved which can be analyzed through a detailed dashboard. It also features comments/notes instead of just numeric data, for better tracking.
 
-A web application that uses PHP and MySQL. It is a tool that boosts and keeps track of one's productivity. 
+-Future-proof in terms of not needing architecture updates as time passes by, as it auto generates panels based on the current data and date.
 
-What differentiates it from others is that the records are saved into a database, which can be analyzed through a dashboard, it also features comments/notes to give an idea of what happened during a specific time. Also, the panels are dynamically and automatically generated.
+-Developed this to solve a personal problem of lacking productivity.
+
 
 It also uses a bit of boostrap.
 
